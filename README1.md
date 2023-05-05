@@ -27,7 +27,7 @@ To deploy this project run
   npm run deploy
 ```
 
-![]https://github.com/codesleeps/upgraded-disco/blob/main/assets/img/animations/demo.mov
+![](https://github.com/codesleeps/upgraded-disco/blob/main/assets/img/animations/demo.mov)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#deployment)
 
