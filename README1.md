@@ -182,7 +182,7 @@ Please adhere to this project's `code of conduct`.
 ## ➤ Demo 😈
 
 
-![image](https://user-images.githubusercontent.com/125808990/236440650-2b3b0208-01f8-4248-9d82-923f05fcae58.png)
+![image](https://user-images.githubusercontent.com/125808990/236440650-2b3b0208-01f8-4248-9d82-923f05fcae58.gif)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#demo)
