@@ -181,7 +181,7 @@ Please adhere to this project's `code of conduct`.
 
 ## ➤ Demo 😈
 
-![Alt text](demo.gif)/![](demo.gif)
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#demo)
