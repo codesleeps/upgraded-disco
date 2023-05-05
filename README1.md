@@ -82,7 +82,7 @@ Install my-project with npm
 
 ## ➤ Screenshots 📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/codesleeps/fictional-octo-sniffle/blob/main/levon-a-robot-gif.gif)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#screenshots)
