@@ -5,7 +5,8 @@ A README template with Git profile and social links
 
 ![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/codesleep/readme/fictional-octo-sniffle/assets/lines/colored.png)(#fictional-octo-sniffle)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#fictional-octo-sniffle)
+
 
 ## ➤ Badges 🥇
 
