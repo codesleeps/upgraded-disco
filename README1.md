@@ -342,6 +342,7 @@ To run tests, run the following command
 ## ➤ VS Code - Extensions
 
 - [x] Quokka.js 🤖
+- [ ] RapidAPI Client 👁️
 - [x] ESLint 🔥
 - [x] JavaScript (ES6) 
 - [x] Prettier 🔥
@@ -352,7 +353,7 @@ To run tests, run the following command
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/rainbow.png)](#vs-code-extensions)
 
-## ➤ Additional resources
+## ➤ Additional Resources ✅
 
 - [Coding Addict](https://johnsmilga.com)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
