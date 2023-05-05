@@ -185,7 +185,7 @@ Please adhere to this project's `code of conduct`.
 ## ➤ Demo 😈
 
 
-![](https://github.com/codesleeps/upgraded-disco/blob/main/assets/img/animations/demo.gif)
+https://github.com/codesleeps/upgraded-disco/blob/main/demo.mov
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#demo)
