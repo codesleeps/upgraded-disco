@@ -106,7 +106,7 @@ Install my-project with npm
 
 ## ➤ Logo
 
-![Logo](https://user-images.githubusercontent.com/125808990/236762763-af812460-b268-4689-aae0-360d7446573c.png)
+![logo](https://user-images.githubusercontent.com/125808990/236821064-dbb3741a-f9fb-4430-b509-8d8c6cdc1272.png)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#logo)
