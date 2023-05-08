@@ -76,6 +76,8 @@ Install my-project with npm
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#license)
 
+## Logo
+
 ![Logo](https://user-images.githubusercontent.com/125808990/236762763-af812460-b268-4689-aae0-360d7446573c.png)
 
 
