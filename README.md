@@ -25,6 +25,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 I'm a front end developer...
 
+![Screenshot 2023-05-08 at 08 23 51](https://user-images.githubusercontent.com/125808990/236821278-2e296e16-3218-43e6-9ac2-4ce3bb63e5d3.png)
+
 
 👩‍💻 I'm currently working on...
 
