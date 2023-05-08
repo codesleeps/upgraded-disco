@@ -19,18 +19,36 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#badges)
 
-## ➤ Deployment 🚀
+## ➤  About Me 🚀
 
-To deploy this project run
+# Hi, I'm Code Sleep! 
 
-```bash
-  npm run deploy
-```
-
-![](https://github.com/codesleeps/upgraded-disco/blob/main/assets/img/animations/demo.mov)
+I'm a front end developer...
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#deployment)
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#about-me)
 
 ## ➤ Description
 
@@ -55,6 +73,18 @@ Put description about app here.......
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#features)
 
+## ➤ Deployment 🚀
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+![](https://github.com/codesleeps/upgraded-disco/blob/main/assets/img/animations/demo.mov)
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#deployment)
 
 ## ➤ Installation 🧭
 
@@ -226,36 +256,7 @@ If you have any feedback, please reach out to us at fake@fake.com
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#feedback)
 
 
-## ➤  About Me 🚀
 
-# Hi, I'm Code Sleep! 
-
-I'm a front end developer...
-
-
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesleeps.github.io/Bootstrap-Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#acout-me)
 
 
 ## ➤ Skills  🛠
