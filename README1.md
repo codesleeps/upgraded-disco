@@ -357,9 +357,9 @@ To run tests, run the following command
 - [x] Tabnine 🤖
 
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#running-tests)
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/rainbow.png)](#vs-code-extensions)
 
 ## ➤ Additional Resources ✅
 
@@ -369,7 +369,7 @@ To run tests, run the following command
 - [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/colored.png)](#vs-code-extensions)
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#running-tests)
 
 
